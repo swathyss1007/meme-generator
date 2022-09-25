@@ -1,3 +1,5 @@
+// This file is no longer needed as we are fetching data from api
+
 export default {
     "success": true,
     "data": {
